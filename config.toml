@@ -1,0 +1,15 @@
+siteTitle = "Arnon Hongklay - I'm Developer"
+siteDescr = "I'm Developer"
+siteAuthor = "Arnon Hongklay"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "https://twitter.com/arnonhongklay"
+siteLinkedInUrl = "https://www.linkedin.com/in/arnonhongklay/"
+siteGithubUrl = "https://github.com/arnonhongklay"
+siteEmailUrl = "arnon@hongklay.com"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
